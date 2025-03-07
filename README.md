@@ -16,8 +16,8 @@
 Используемые инструменты:
 Kotlin,
 Android SDK,
-GitHub API.
-termux-app
+GitHub API,
+termux-app.
 
 https://github.com/termux/termux-app?ysclid=m7y8lfdq86575822495
 
