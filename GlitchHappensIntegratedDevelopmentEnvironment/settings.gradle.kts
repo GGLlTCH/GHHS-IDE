@@ -19,6 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Glitch Happens Integrated Development Environment"
+rootProject.name = "GlitchHappensIntegratedDevelopmentEnvironment"
 include(":app")
- 
